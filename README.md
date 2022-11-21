@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Frat3rPutnam
 - 👀 I’m interested in learning HTML5, CSS, JAVA, Python and Linux. I am a complete newbie.
-- 🌱 I’m currently learning HTML5, CSS and Linux. 
-- 💞️ I’m looking to collaborate on ultra beginner level projects. Though I am learning very quickly.
+- 🌱 I’m currently learning HTML5, CSS and JavaScript (M.E.R.N) 
 - 📫 How to reach me fraterputnam@gmail.com
 
 <!---
