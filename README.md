@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frat3rPutnam
-- 👀 I’m interested in learning HTML5, CSS, JAVA, Python and Linux. I am a complete newbie.
+- 👀 I’m interested in learning Python and C++
 - 🌱 I’m currently learning HTML5, CSS and JavaScript (M.E.R.N) 
 - 📫 How to reach me fraterputnam@gmail.com
 
